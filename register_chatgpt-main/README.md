@@ -10,10 +10,6 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 
 ![image](https://github.com/Simonzaq/chatgpt/blob/c987a4edaeb178e23a7337b587cf00acd85cedc4/register_chatgpt-main/img/wechat.jpg?raw=true)
 
-## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
- 
- 
-<img src="https://github.com/Simonzaq/chatgpt/blob/c987a4edaeb178e23a7337b587cf00acd85cedc4/register_chatgpt-main/img/qr-chat.png?raw=true" width="200px" height="200px">
 
 
 # 接收Open AI 和 ChatGPT注册验证码 但不仅限于这两个平台-任何需要接码的都可以用 
