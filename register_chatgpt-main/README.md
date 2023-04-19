@@ -8,12 +8,12 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 
 继 AI 绘画之后，由 OpenAI 上线的 ChatGPT 成了新的流量收割机，也引发了网友的一系列“花式整活”。ChatGPT的功能是如此强大，以此连马斯克都认为“我们离强大到危险的 AI 不远了”。
 
-![image](https://github.com/Simonzaq/chatgpt/register_chatgpt/blob/main/img/chatgpt_reg.jpg?raw=true)
+![image](https://github.com/Simonzaq/chatgpt/edit/main/register_chatgpt-main/img/chatgpt_reg.jpg?raw=true)
 
 ## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
  
  
-<img src="https://github.com/Simonzaq/chatgpt/register_chatgpt/blob/main/img/qr-chat.png?raw=true" width="200px" height="200px">
+<img src="https://github.com/Simonzaq/chatgpt/edit/main/register_chatgpt-main/img/qr-chat.png?raw=true" width="200px" height="200px">
 
 
 # 接收Open AI 和 ChatGPT注册验证码 但不仅限于这两个平台-任何需要接码的都可以用 
@@ -35,11 +35,10 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 获取平台折扣的人；
 需要创建第二个抖音、Instagram、WhatsApp、Telegram、淘宝、支付宝等账号的人；
 
- <img src="https://github.com/Simonzaq/chatgpt/register_chatgpt/blob/main/img/phone_message.jpg?raw=true" width="400px" height="800px">
+ <img src="https://github.com/Simonzaq/chatgpt/edit/main/register_chatgpt-main/img/phone_message.jpg?raw=true" width="400px" height="800px">
 
 
 # 代搭建安装 V免签+彩虹易支付个人支付对接支付宝、微信 免签约 直接到个人账户安全【PHP版】
-<a href="https://wp.huinong.co/index.php/product/2023v_pay/">点击我了解咨询</a>
 
 最简单的接入个人支付方式，不需要去申请任何东西，签约任何东西，也不需要你任何资质和实名认证，搭建完成立马能用。且没有任何中间支付手续费，主要就是安全，马上及时到账。
 
@@ -166,7 +165,7 @@ SSL证书安装	自己提供ssl证书 40元/次 (带证书申请安装60元/次)
  
 ### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
 
-<img src="https://github.com/Simonzaq/chatgpt/register_chatgpt/blob/main/img/wechat.jpg?raw=true" width="250px" height="250px">
+<img src="https://github.com/Simonzaq/chatgpt/edit/main/register_chatgpt-main/img/wechat.jpg?raw=true" width="250px" height="250px">
 
 
 
